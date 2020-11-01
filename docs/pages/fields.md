@@ -10,3 +10,4 @@
 - firmware security
 - drivers security
 - hardware security
+- binary exploitation

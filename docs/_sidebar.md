@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Intro](/)
-* [Security Fields](pages/areas.md)
+* [Security Fields](pages/fields.md)
 * [Tools](pages/tools.md)
-* [Web Security](pages/web.md)
+* [To read](pages/read.md)
+<!-- * [Web Security](pages/web.md) -->
