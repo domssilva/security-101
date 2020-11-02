@@ -5,7 +5,7 @@
 | Timestamp | Topic |
 | --------------- | ----- |
 | [12:30](https://youtu.be/9I5RAWGWj7I?t=750) | start |
-| [23:47](https://youtu.be/9I5RAWGWj7I?t=) | never hack without permission |
+| [23:47](https://youtu.be/9I5RAWGWj7I?t=1427) | never hack without permission |
 | [36:04](https://youtu.be/9I5RAWGWj7I?t=2164) | lower the stack |
 | [42:45](https://youtu.be/9I5RAWGWj7I?t=2565) | picking programming languages |
 | [45:42](https://youtu.be/9I5RAWGWj7I?t=2742) | the role of reverse engineering |
