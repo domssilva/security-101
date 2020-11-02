@@ -5,11 +5,12 @@
 
 ### Gynvael's Tips
 
-- [How to learn reverse engineering?](https://gynvael.coldwind.pl/?id=664)
 - [How to find vulnerabilities?](https://gynvael.coldwind.pl/?id=659)
+- [How to learn reverse engineering?](https://gynvael.coldwind.pl/?id=664)
 
-### Vulnerability Reports
+### Learn
 - [Hackerone disclosed reports](https://hackerone.com/hacktivity)
+- [Web Hacking](pages/web.md#blogs)
 
 ### Security News
 - [packetstorm](https://packetstormsecurity.com/)

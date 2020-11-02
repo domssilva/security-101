@@ -1,13 +1,14 @@
 # Security Fields
 
 - malware analysis
-- web security
-- mobile security
+- [web](pages/web.md)
+- mobile
 - networks
 - forensics
 - cryptoanalysis
 - reverse engineering
-- firmware security
-- drivers security
-- hardware security
+- OS
+- firmware
+- drivers
+- hardware
 - binary exploitation
