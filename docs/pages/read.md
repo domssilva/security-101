@@ -7,10 +7,7 @@
 
 - [How to find vulnerabilities?](https://gynvael.coldwind.pl/?id=659)
 - [How to learn reverse engineering?](https://gynvael.coldwind.pl/?id=664)
-
-### Learn
-- [Hackerone disclosed reports](https://hackerone.com/hacktivity)
-- [Web Hacking](pages/web.md#blogs)
+<!-- - [phrack](http://phrack.com/) -->
 
 ### Security News
 - [packetstorm](https://packetstormsecurity.com/)

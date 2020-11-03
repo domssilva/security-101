@@ -2,14 +2,21 @@
 
 > lorem50
 
-## Practice
-- [portswigger academy](https://portswigger.net/)
-
 ## Theory
-- [web security study notes](https://websec.readthedocs.io/zh/latest/index.html)
+- [cybering - computer security course](https://cybering.cc/)
+- [standford - cs 253 web security](https://web.stanford.edu/class/cs253/)
 
 ## Blogs
 - https://bitquark.co.uk/blog/
+- https://chybeta.github.io/2017/08/19/Web-Security-Learning/
+- http://sirdarckcat.blogspot.com/
+
+### Disclosed Reports
+- [Hackerone disclosed reports](https://hackerone.com/hacktivity)
+- [Pentester land](https://pentester.land/list-of-bug-bounty-writeups.html)
+
+## Practice
+- [portswigger academy](https://portswigger.net/)
 
 ## Books
 
