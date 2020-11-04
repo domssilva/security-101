@@ -7,8 +7,8 @@
 - [standford - cs 253 web security](https://web.stanford.edu/class/cs253/)
 
 ## Blogs
-- https://bitquark.co.uk/blog/
 - https://chybeta.github.io/2017/08/19/Web-Security-Learning/
+- https://bitquark.co.uk/blog/
 - http://sirdarckcat.blogspot.com/
 
 ### Disclosed Reports
