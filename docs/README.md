@@ -17,8 +17,9 @@
 <!-- | [](https://youtu.be/9I5RAWGWj7I?t=) |  | -->
 
 ## Main concepts from the video
+0. Be curious
 1. [Pick 1 field to start](pages/fields.md)
 2. Learn from different resources but with **HANDS ON/MANUAL practice**
-3. learn as you go
-4. hacking is about the details
-5. dig as deep as possible
+3. Learn as you go
+4. Hacking is about the details
+5. Dig as deep as possible

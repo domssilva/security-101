@@ -17,6 +17,7 @@
 
 ## Practice
 - [portswigger academy](https://portswigger.net/)
+- [bug bounty hunter](https://www.bugbountyhunter.com/)
 
 ## Books
 
