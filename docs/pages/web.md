@@ -1,7 +1,5 @@
 # Web Hacking
 
-> lorem50
-
 ## Theory
 - [cybering - computer security course](https://cybering.cc/)
 - [standford - cs 253 web security](https://web.stanford.edu/class/cs253/)
